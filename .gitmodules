@@ -1,0 +1,39 @@
+[submodule "repos/lifeground-web"]
+	path = repos/lifeground-web
+	url = https://github.com/LifeGround/lifeground-web.git
+[submodule "repos/lifeground-iot"]
+	path = repos/lifeground-iot
+	url = https://github.com/LifeGround/lifeground-iot.git
+[submodule "repos/lifeground-vision"]
+	path = repos/lifeground-vision
+	url = https://github.com/LifeGround/lifeground-vision.git
+[submodule "repos/lifeground-benchmarks"]
+	path = repos/lifeground-benchmarks
+	url = https://github.com/LifeGround/lifeground-benchmarks.git
+[submodule "repos/lifeground-mobile"]
+	path = repos/lifeground-mobile
+	url = https://github.com/LifeGround/lifeground-mobile.git
+[submodule "repos/lifeground-community"]
+	path = repos/lifeground-community
+	url = https://github.com/LifeGround/lifeground-community.git
+[submodule "repos/lifeground-docs"]
+	path = repos/lifeground-docs
+	url = https://github.com/LifeGround/lifeground-docs.git
+[submodule "repos/lifeground-education"]
+	path = repos/lifeground-education
+	url = https://github.com/LifeGround/lifeground-education.git
+[submodule "repos/lifeground-satellite"]
+	path = repos/lifeground-satellite
+	url = https://github.com/LifeGround/lifeground-satellite.git
+[submodule "repos/lifeground-regional"]
+	path = repos/lifeground-regional
+	url = https://github.com/LifeGround/lifeground-regional.git
+[submodule "repos/lifeground-data"]
+	path = repos/lifeground-data
+	url = https://github.com/LifeGround/lifeground-data.git
+[submodule "repos/lifeground-infra"]
+	path = repos/lifeground-infra
+	url = https://github.com/LifeGround/lifeground-infra.git
+[submodule "repos/lifeground-ai"]
+	path = repos/lifeground-ai
+	url = https://github.com/LifeGround/lifeground-ai.git
